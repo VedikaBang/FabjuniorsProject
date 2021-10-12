@@ -1,7 +1,7 @@
 # Fabjuniors Portfolio Project
 *A responsive website for pune based kids' fitness start up.* 
 
-~~**Rendering this website was quite a fun**
+<s>**Rendering this website was quite a fun**</s>
 
 ## Highlights :
 
